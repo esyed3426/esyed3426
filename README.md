@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ehsan, first year mathematics student at the University of Waterloo.
 - 👀 I’m interested in data science, machine learning and web development.
-- 🌱 I’m currently learning some of the basics of data science algorithms.
+- 🌱 I’m currently learning the basics of web development.
 - 📫 How to reach me: 
 - Email - esyed3426@gmail.com 
 - LinkedIn - https://www.linkedin.com/in/ehsan-syed-186b5b21a/
