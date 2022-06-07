@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ehsan, first year mathematics student at the University of Waterloo.
+- 👋 Hi, I’m Ehsan, second year mathematics student at the University of Waterloo.
 - 👀 I’m interested in data science, machine learning and web development.
 - 🌱 I’m currently learning the basics of full-stack web development.
 - 📫 How to reach me: 
